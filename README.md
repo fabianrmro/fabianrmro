@@ -22,6 +22,14 @@ Soy autodidacta y resolutivo, y disfruto colaborando en equipo, siempre buscando
 
 - 🌐 Colaborador, me gusta trabajar en equipos diversos
 
+- 🚀 Orientado a resultados, enfocado en maximizar el impacto de cada proyecto
+
+- 🛠️ Experto en soluciones prácticas, con habilidad para optimizar procesos
+
+- 🧠 Aprendizaje continuo, siempre en busca de nuevas tecnologías y metodologías
+
+- 📈 Comprometido con la calidad, garantizando aplicaciones robustas y eficientes
+
 - 🌍 Barcelona - España
 
 
