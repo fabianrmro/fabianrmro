@@ -9,20 +9,20 @@ En mi trabajo, me muevo cómodamente tanto en el frontend como en el backend, co
 Soy un firme creyente en los principios AGILE y en el valor de las pruebas automatizadas para asegurar la calidad del desarrollo. 
 Soy autodidacta y resolutivo, y disfruto colaborando en equipo, siempre buscando nuevos retos y oportunidades para crear soluciones innovadoras con un enfoque minimalista y funcional..
 
-## Rapidfire  
+## Resumen Rápido  
 <table><tr><td valign="top" width="50%">
 
-- 🎓 ISDI Coders, embracing new challenges
+- 🎓 Formación en ISDI Coders, siempre listo para nuevos desafíos
   
-- 📚 Always eager to expand my tech stack  
+- 📚 En constante expansión de mi stack tecnológico
 
-- 💻 Problem-solver, turning challenges into solutions
+- 💻 Resolutivo, convirtiendo desafíos en soluciones
 
-- 🔄 Adaptable to fast-paced environments
+- 🔄 Adaptable a entornos dinámicos y cambiantes
 
-- 🌐 Collaborative team player, thriving in diverse teams
+- 🌐 Colaborador, me gusta trabajar en equipos diversos
 
-- 🌍 Barcelona - España 
+- 🌍 Barcelona - España
 
 
 </td><td valign="top" width="50%">
@@ -37,7 +37,7 @@ Soy autodidacta y resolutivo, y disfruto colaborando en equipo, siempre buscando
 <br/>  
 
 
-## My Skill Set  
+## Mis Habilidades  
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div style="border: 2px solid #ccc; padding: 15px; width: 200px; text-align: center;">
     <h3>Frontend</h3>
@@ -67,7 +67,7 @@ Soy autodidacta y resolutivo, y disfruto colaborando en equipo, siempre buscando
 
 
 
-## Connect with me
+## Conecta Conmigo
 
 <!-- [![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev) -->
