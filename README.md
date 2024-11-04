@@ -79,29 +79,42 @@ Soy autodidacta y resolutivo, y disfruto colaborando en equipo, siempre buscando
 ## Mi Ruta de Proyectos 🚀
 
 Aquí encontrarás algunos de mis proyectos destacados. 
-Cada uno incluye una breve descripción y un enlace al repositorio en GitHub para que puedas explorarlos más a fondo. 🧑🏻‍💻
+Cada uno incluye una breve descripción y un enlace al repositorio en GitHub 
+para que puedas explorarlos más a fondo. 🧑🏻‍💻
 
-### RAYO ⚡️ : Web-App Red Social
-![Web-App Red Social]([https://via.placeholder.com/300x150](https://i.pinimg.com/564x/9d/45/b3/9d45b3651651b750bb410ed3b6307f32.jpg))
+---
+
+<div style="border: 1px solid #ccc; padding: 20px">
+<h3> RAYO ⚡️ : Web-App Red Social </h3>
+
+![Web-App Red Social](https://i.pinimg.com/564x/9d/45/b3/9d45b3651651b750bb410ed3b6307f32.jpg)
+
 - **Descripción**: Una plataforma y red social, hecha para Inversores y Proyectos.
-- Permite a los usuarios subir sus proyectos y buscar hacer Match con los Inversores de su localidad.
+Permite a los usuarios subir sus proyectos y buscar hacer Match con los Inversores de su localidad.
+
 - **[Ver en GitHub](https://github.com/fabianrmro/Rayo)**
+</div>
 
----
+<div style="border: 1px solid #ccc; padding: 20px">
+<h3> UTURO: Aplicación fotos </h3>
 
-### UTURO: Aplicación fotos
 ![Aplicación fotos](proximafoto)
+
 - **Descripción**: Aplicación móvil para ayudar a los usuarios a gestionar sus finanzas personales con gráficos interactivos.
-- **[Ver en GitHub](https://github.com/fabianrmro/Photos)**
 
----
+- **[Ver en GitHub](https://github.com/fabianrmro/Photos)** 
+</div>
 
-### Animales (Proceso)
+<div style="border: 1px solid #ccc; padding: 20px">
+<h3>Animales (Proceso)</h3>
+
 Animales (Proceso)
+</div>
 
----
+
+
+-----
 
 ¡Gracias por visitar mis proyectos! 
 Si quieres saber más sobre ellos o colaborar, 
 no dudes en contactarme. 🧢
-
