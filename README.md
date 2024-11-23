@@ -95,7 +95,7 @@ para que puedas explorarlos más a fondo. 🧑🏻‍💻
 <div style="border: 1px solid #ccc; padding: 20px">
 <h3> RAYO ⚡️ : Web-App Red Social </h3>
 
-![Web-App Red Social](https://i.pinimg.com/564x/9d/45/b3/9d45b3651651b750bb410ed3b6307f32.jpg)
+![Web-App Red Social]()
 
 - **Descripción**: Una plataforma y red social, hecha para Inversores y Proyectos.
 Permite a los usuarios subir sus proyectos y buscar hacer Match con los Inversores de su localidad.
@@ -104,13 +104,16 @@ Permite a los usuarios subir sus proyectos y buscar hacer Match con los Inversor
 </div>
 
 <div style="border: 1px solid #ccc; padding: 20px">
-<h3> UTURO: Aplicación fotos </h3>
+<h3> UTURE: Aplicación fotos </h3>
 
 ![Aplicación fotos](proximafoto)
 
-- **Descripción**: Aplicación móvil para ayudar a los usuarios a gestionar sus finanzas personales con gráficos interactivos.
+- **Descripción**: una red social similar a Instagram, construida con
+MongoDB, Node.js y Express.js en el backend, y React, JSX
+y Tailwind CSS en el frontend, donde los usuarios pueden
+subir y compartir fotos.
 
-- **[Ver en GitHub](https://github.com/fabianrmro/Photos)** 
+- **[Ver en GitHub](https://github.com/fabianrmro/Uture)** 
 </div>
 
 <div style="border: 1px solid #ccc; padding: 20px">
