@@ -77,10 +77,9 @@ Soy autodidacta y resolutivo, y disfruto colaborando en equipo, siempre buscando
 
 ## Conecta Conmigo
 
-<!-- [![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) -->
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev) -->
-[![TikTok](https://img.shields.io/badge/TikTok-@fabianrmro-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@fabianrmro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian_Romero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/fabianrmro/)
+## Contacto
+
+-    [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:ro.romerotorres@gmail.com)     [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp)](https://wa.me/+34640688593)     [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabianrmro)     [![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/fabianrmro)
 <!-- [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com) -->
 
 
