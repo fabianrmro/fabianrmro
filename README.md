@@ -95,7 +95,7 @@ para que puedas explorarlos más a fondo. 🧑🏻‍💻
 <div style="border: 1px solid #ccc; padding: 20px">
 <h3> RAYO ⚡️ : Web-App Red Social </h3>
 
-![Web-App Red Social]()
+![Web-App Red Social](https://media.tenor.com/xCelSHquwNUAAAAi/boing-flash.gif)
 
 - **Descripción**: Una plataforma y red social, hecha para Inversores y Proyectos.
 Permite a los usuarios subir sus proyectos y buscar hacer Match con los Inversores de su localidad.
